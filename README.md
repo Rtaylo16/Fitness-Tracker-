@@ -5,6 +5,8 @@ The user will create and track daily workouts. The user will have ability to log
 The user will track: Workout name, type, weight, sets, and reps through input. 
 In a business context consumers will be able to keep up with their fitness goals while simultaneously tracking workout 
 progess.
+
+
 ## How to use 
 This application allows the user to input their workout into the form and track their progress!
  * Load the application
