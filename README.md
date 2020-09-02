@@ -3,7 +3,7 @@
 # Application
 The user will create and track daily workouts. The user will have ability to log multiple exercises. 
 The user will track: Workout name, type, weight, sets, and reps through input. 
-  
+In a business context consumer will reach
 
 ## How to use 
 This application allows the user to input their workout into the form and track their progress!
