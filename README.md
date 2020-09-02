@@ -1,7 +1,7 @@
 # FITNESS TRACKER!!!
 
 # Application
-The user will create and track daily workouts.
+The user will create and track daily workouts. The user will have ability to log multiple exercises. 
 
 ## How to use 
 This application allows the user to input their workout into the form and track their progress!
