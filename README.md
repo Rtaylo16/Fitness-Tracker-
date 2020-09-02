@@ -1,6 +1,6 @@
 # FITNESS TRACKER!!!
 
-# 
+# Application
 
 ## How to use 
 This application allows the user to input their workout into the form and track their progress!
